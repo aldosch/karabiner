@@ -2,6 +2,8 @@
 
 custom global keyboard shortcuts for macos.
 
+![example screenshot](/screenshot.png)
+
 install [Karabiner Elements](https://karabiner-elements.pqrs.org)
 
 **caps hyper**
